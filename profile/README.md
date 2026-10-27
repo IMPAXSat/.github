@@ -10,6 +10,8 @@ IMPAX hosts two instruments.
 
 IMPAX is scheduled to launch no earlier than 2027.
 
+The official team website can be found at https://impaxcubesat.umn.edu/.
+
 ### Data
 
 Data will be hosted on the NASA SPDF.
